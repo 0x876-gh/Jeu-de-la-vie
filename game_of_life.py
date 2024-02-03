@@ -85,4 +85,5 @@ while True:
     verif = [[0 for i in range(largeur)] for i in range(hauteur)]
 
     plt.imshow(Matrice)
-    plt.pause(1)
+    plt.pause(0.01)
+    plt.clf()
