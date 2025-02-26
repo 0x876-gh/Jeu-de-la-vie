@@ -25,4 +25,4 @@ Pour lancer ce programme sur votre ordinateur il faut Python 3.7 et le module ma
 
 ```python game_of_life.py```
 
-Projet lié [Jeu de la vie](https://github.com/0x8765/Jeu-de-la-fourmi)
+Projet lié [Jeu de la fourmi](https://github.com/0x8765/Jeu-de-la-fourmi)
